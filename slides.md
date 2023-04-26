@@ -31,11 +31,11 @@ colorSchema: 'dark'
 
 <div class="pt-12">
   <span  class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    <a class="text-xl icon-btn !border-none" href="http://140.130.34.35:3000" target="_blank"></a>
+    <a class="text-xl icon-btn !border-none" href="" target="_blank"></a>
   </span>
 </div>
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/guan4tou2" target="_blank" alt="GitHub"
+  <a href="" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
